@@ -1,1 +1,3 @@
 # raspberry_pi
+raspberry piのgpioを操作するファイルだったりその他もろもろ
+自分用のメモ
